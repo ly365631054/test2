@@ -30,6 +30,8 @@ public class Demo01 {
 
         System.out.println(subject.isAuthenticated());
 
+
+
 //                System.out.println(new Md5Hash("admin", "65555551", 1024));
     }
 }
